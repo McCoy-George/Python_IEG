@@ -1,0 +1,17 @@
+Driver ID | Name               | Phone Number | Email                     | Driving License
+----------------------------------------------------------------------------------------------
+1234AB    | Ahmad Bin Ali      | 012-3456789  | ahmad.ali@gmail.com       | D1234567
+5678AB    | Nurul Binti Azman  | 012-9876543  | nurul.azman@gmail.com     | D2345678
+9101AB    | Tan Wei Ming       | 013-4567890  | tan.weiming@gmail.com     | D3456789
+1121AB    | Siti Noor Aini     | 013-6789012  | siti.aini@gmail.com       | D4567890
+3141AB    | Raj Kumar          | 014-5678901  | raj.kumar@gmail.com       | D5678901
+5161AB    | Lim Ah Seng        | 014-7890123  | lim.ahseng@gmail.com      | D6789012
+7181AB    | Aishah Binti Omar  | 015-8901234  | aishah.omar@gmail.com     | D7890123
+9202AB    | Syafiq Bin Hassan  | 015-9012345  | syafiq.hassan@gmail.com   | D8901234
+1222AB    | Hafiz Bin Rahman   | 016-0123456  | hafiz.rahman@gmail.com    | D9012345
+3242AB    | Mei Ling           | 016-2345678  | mei.ling@gmail.com        | D0123456
+5262AB    | Farid Bin Zainal   | 017-3456789  | farid.zainal@gmail.com    | D1234568
+7282AB    | Zainab Binti Mansor| 017-4567890  | zainab.mansor@gmail.com   | D2345679
+9303AB    | Chong Wei Lee      | 018-5678901  | chong.weilee@gmail.com    | D3456780
+1323AB    | Aini Binti Ahmad   | 018-6789012  | aini.ahmad@gmail.com      | D4567891
+3343AB    | Zarif Bin Abdullah | 019-7890123  | zarif.abdullah@gmail.com  | D5678902

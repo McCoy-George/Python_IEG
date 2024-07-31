@@ -1,0 +1,6 @@
+Customer             | Customer Phone Number | Brand      | Plate Number |   Seats    | Rental Rate | Driver              | Driver Phone Number | Start Date | End Date   | Rental Fee (RM)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Wei Lee              |      013-5555666      | Nissan     | WXY2772      |     4      | 20.0        | Tan Wei Ming        |     013-4567890     | 2024-09-10 | 2024-09-15 | 100.0
+Rajesh Kumar         |      014-9999000      | Nissan     | WMY2767      |     5      | 20.0        | Raj Kumar           |     014-5678901     | 2024-09-09 | 2024-09-19 | 200.0
+Farid Bin Ismail     |      016-8888999      | Proton     | PQR2569      |     7      | 10.0        | Hafiz Bin Rahman    |     016-0123456     | 2024-09-09 | 2024-09-19 | 100.0
+Adibah Binti Yusuf   |      012-1111222      | Proton     | KML3552      |     4      | 10.0        | Ahmad Bin Ali       |     012-3456789     | 2024-04-01 | 2024-04-03 | 20.0

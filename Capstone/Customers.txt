@@ -1,0 +1,18 @@
+ID | Customer Name        | Phone Number  | Email                     | IC Number
+---------------------------------------------------------------------------------------
+1  | Adibah Binti Yusuf   | 012-1111222   | adibah.yusuf@gmail.com    | 901010-10-1010
+2  | Hafiz Bin Muhammad   | 012-3333444   | hafiz.muhammad@gmail.com  | 800202-02-2020
+3  | Wei Lee              | 013-5555666   | wei.lee@gmail.com         | 780303-03-3030
+4  | Nur Amira Zulkifli   | 013-7777888   | amira.zulkifli@gmail.com  | 890404-04-4040
+5  | Rajesh Kumar         | 014-9999000   | rajesh.kumar@gmail.com    | 850505-05-5050
+6  | Lim Siew Ling        | 014-2222333   | lim.siewling@gmail.com    | 860606-06-6060
+7  | Aina Binti Ahmad     | 015-4444555   | aina.ahmad@gmail.com      | 870707-07-7070
+8  | Ahmad Bin Hashim     | 015-6666777   | ahmad.hashim@gmail.com    | 880808-08-8080
+9  | Farid Bin Ismail     | 016-8888999   | farid.ismail@gmail.com    | 890909-09-9090
+10 | Ling Wei Chong       | 016-0000111   | ling.weichong@gmail.com   | 900101-10-1010
+11 | Sarah Binti Hassan   | 017-2222444   | sarah.hassan@gmail.com    | 910202-11-2020
+12 | Zulkifli Bin Idris   | 017-5555666   | zulkifli.idris@gmail.com  | 920303-12-3030
+13 | Chong Wei Kiat       | 018-7777888   | chong.weikiat@gmail.com   | 930404-13-4040
+14 | Aishah Binti Omar    | 018-9999000   | aishah.omar@gmail.com     | 940505-14-5050
+15 | Adam Bin Abdullah    | 019-3333444   | adam.abdullah@gmail.com   | 950606-15-6060
+

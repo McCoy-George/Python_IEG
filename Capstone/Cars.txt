@@ -1,0 +1,17 @@
+Plate   | Brand   | Model | Colour | Availability | No. of Seats | Rental rate (RM/Day)
+---------------------------------------------------------------------------------------
+WPQ2334 | Proton  | Saga  | Red    | Unavailable  |       4      |         10
+WLP5221 | Perodua | Myvi  | White  | Available    |       4      |         15
+WXY2772 | Nissan  | Honda | Black  | Available    |       4      |         20
+AJU2212 | Perodua | Bezza | Blue   | Available    |       4      |         10
+KML3552 | Proton  | Aruz  | Yellow | Available    |       4      |         10
+WPS2335 | Proton  | Saga  | Red    | Unavailable  |       5      |         10
+WLX5876 | Perodua | Myvi  | White  | Unavailable  |       5      |         15
+WMY2767 | Nissan  | Honda | Black  | Available    |       5      |         20
+AJU3211 | Perodua | Bezza | Blue   | Unavailable  |       5      |         10
+KBJ3543 | Proton  | Aruz  | Yellow | Available    |       5      |         10
+PQR2569 | Proton  | Saga  | Red    | Available    |       7      |         10
+JQR5681 | Perodua | Myvi  | White  | Unavailable  |       7      |         15
+MPV4322 | Nissan  | Honda | Black  | Available    |       7      |         20
+AQL7890 | Perodua | Bezza | Blue   | Available    |       7      |         10
+WCR8654 | Proton  | Aruz  | Yellow | Unavailable  |       7      |         10
